@@ -1,7 +1,7 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ferry! 👋
 
 ## About Me
-I'm a passionate developer with a keen interest in [Your Interests]. I love working with modern technologies and creating impactful solutions.
+I'm a love tech and code, learn something new, teach other
 
 ## Socials
 You can find me on these platforms:
@@ -18,17 +18,11 @@ Here are some of the technologies I work with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -38,7 +32,7 @@ Here are some of the technologies I work with:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Contact Me
-Feel free to reach out to me at [YourEmail@example.com] for any inquiries or collaborations!
+Feel free to reach out to me at ferryryku@gmail.com for any inquiries or collaborations!
 
 ---
 
